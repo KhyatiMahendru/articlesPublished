@@ -3,7 +3,7 @@ A collection of all the articles authored by me.
 
 | Date          | Title         | Link  |
 | ------------- |:--------------|:-----|
-| 10.07.2019    | Heading for a Data Science Interview? 6 Things to Do 1 Day Before your Interview | https://www.analyticsvidhya.com/blog/2019/07/6-essential-tips-should-know-day-before-data-science-interview/ |
+| 10.07.2019    | Heading for a Data Science Interview? 6 Things to Do 1 Day Before your Interview | https://www.analyticsvidhya.com/blog/2019/07/6-essential-tips-should-know-day-before-data-science-interview/ </br></br> https://medium.com/analytics-vidhya/heading-for-a-data-science-interview-95eeab94ba1d |
 | 04.07.2019    | 11 Superb Data Science Videos Every Data Scientist Must Watch | https://www.analyticsvidhya.com/blog/2019/07/11-data-science-videos-every-data-scientist-must-watch/ </br></br> https://medium.com/analytics-vidhya/11-superb-data-science-videos-every-data-scientist-must-watch-2ef092d39cb2 |
 | 30.06.2019    | My Experience at the Google India Tech Intern Connect 2019 | https://medium.com/@khyati.ma25/my-experience-at-the-google-india-tech-intern-connect-2019-49b88c0db190 |
 | 25.06.2019    | Balance your data using SMOTE - With a Case Study in Python | https://medium.com/analytics-vidhya/balance-your-data-using-smote-98e4d79fcddb |
