@@ -3,6 +3,7 @@ A collection of all the articles authored by me.
 
 | Date          | Title         | Link  |
 | ------------- |:--------------|:-----|
+| 15.08.2019    | A Detailed Guide to 7 Loss Functions for Machine Learning Algorithms with Python Code | https://www.analyticsvidhya.com/blog/2019/08/detailed-guide-7-loss-functions-machine-learning-python-code/ </br></br> https://medium.com/analytics-vidhya/a-detailed-guide-to-7-loss-functions-for-machine-learning-algorithms-26e11b6e700b |
 | 05.08.2019    | Master Dimensionality Reduction with these 5 Must-Know Applications of Singular Value Decomposition (SVD) in Data Science | https://www.analyticsvidhya.com/blog/2019/08/5-applications-singular-value-decomposition-svd-data-science/ </br></br> https://medium.com/analytics-vidhya/master-dimensionality-reduction-with-these-5-must-know-applications-of-singular-value-777299940b89 |
 | 23.07.2019    | 10 Powerful Applications of Linear Algebra in Data Science (with Multiple Resources) | https://www.analyticsvidhya.com/blog/2019/07/10-applications-linear-algebra-data-science/ </br></br> https://medium.com/analytics-vidhya/10-powerful-applications-of-linear-algebra-in-data-science-c9c0b6018074 |
 | 10.07.2019    | Heading for a Data Science Interview? 6 Things to Do 1 Day Before your Interview | https://www.analyticsvidhya.com/blog/2019/07/6-essential-tips-should-know-day-before-data-science-interview/ </br></br> https://medium.com/analytics-vidhya/heading-for-a-data-science-interview-95eeab94ba1d |
