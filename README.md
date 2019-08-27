@@ -1,4 +1,4 @@
-# articles_published
+# Published Articles
 A collection of all the articles authored by me.
 
 | Date          | Title         | Link  |
